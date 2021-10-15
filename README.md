@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Madhukrishna Vinod Nipankar</h1>
+<h1 align="center">Hi 👋, I'm Madhukrishna Nipankar</h1>
 <h3 align="center">Passionate About Web Technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhukrishnanipankar&label=Profile%20views&color=0e75b6&style=flat" alt="madhukrishnanipankar" /> </p>
