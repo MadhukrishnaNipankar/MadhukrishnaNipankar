@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **nipankarmadhu@gmail.com**
 
-- ⚡ Fun fact **JUST LOVE JAVASCRIPT**
+- ⚡ Fun fact **Always open for project collaborations🪶**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
