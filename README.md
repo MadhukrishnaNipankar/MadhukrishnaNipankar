@@ -1,4 +1,4 @@
-<h1 align="center" background-color="black" color="white">Hi 👋, I'm Madhukrishna Nipankar</h1>
+<h1 align="center">Hi 👋, I'm Madhukrishna Nipankar</h1>
 <h3 align="center">Full Stack Developer</h3>
 <p align="center">💤I code, when get bored</p>
 
