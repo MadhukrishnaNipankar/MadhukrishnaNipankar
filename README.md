@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="left">💻 This is a Full Stack Developer having a keen interest in Modern Design as well as Development.<br><br>🔭 Currently Exploring MERN Stack and working on Problem-solving skills<br><br>🌐 Go through the Portfolio website: https://madhukrishnanipankar.netlify.app<br><br>✅ Wanna collab? ping me here: nipankarmadhu@gmail.com</h4>
+<h4 align="left">💻 A Full Stack Developer with a keen interest in Modern Design as well as Development. I love to code, design and build cool things.<br><br>🔭 Currently Exploring MERN Stack and working on Problem-solving skills<br><br>🌐 Go through the Portfolio website: https://madhukrishnanipankar.netlify.app<br><br>✅ Wanna collab? ping me here: nipankarmadhu@gmail.com</h4>
 
 ###
 
